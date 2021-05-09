@@ -1,0 +1,285 @@
+# depslib dependency file v1.0
+1452072114 source:c:\users\mdt\desktop\project_codeblocks\bgi.cxx
+
+1451663222 source:c:\users\mdt\desktop\project_codeblocks\bgiout.cxx
+
+1070077550 source:c:\users\mdt\desktop\project_codeblocks\dibutil.cxx
+	<windows.h>
+	<assert.h>
+	"dibapi.h"
+	"dibutil.h"
+	<stdio.h>
+
+1070141918 c:\users\mdt\desktop\project_codeblocks\dibapi.h
+
+1070072952 c:\users\mdt\desktop\project_codeblocks\dibutil.h
+
+1502478278 source:c:\users\mdt\desktop\project_codeblocks\drawing.cxx
+	<windows.h>
+	<windowsx.h>
+	<math.h>
+	<ocidl.h>
+	<olectl.h>
+	<string.h>
+	"winbgim.h"
+	"winbgitypes.h"
+	"dibapi.h"
+	<iostream>
+
+1451663230 c:\users\mdt\desktop\project_codeblocks\winbgim.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1151487686 c:\users\mdt\desktop\project_codeblocks\winbgitypes.h
+	<windows.h>
+	<tchar.h>
+	<queue>
+	<string>
+	"winbgim.h"
+	<vector>
+
+1151839830 source:c:\users\mdt\desktop\project_codeblocks\file.cxx
+	<windows.h>
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<io.h>
+	<direct.h>
+	<stdlib.h>
+	"dibutil.h"
+	"dibapi.h"
+	"winbgitypes.h"
+
+1502593609 source:c:\users\mdt\desktop\project_codeblocks\main.cpp
+	"hangso.h"
+	"hienthi.h"
+	"xuli.h"
+	<mmsystem.h>
+
+1452072419 c:\users\mdt\desktop\project_codeblocks\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1502027232 source:c:\users\mdt\desktop\project_codeblocks\menu.c
+	"bailam.h"
+	<stdio.h>
+	<stdlib.h>
+
+1151492256 source:c:\users\mdt\desktop\project_codeblocks\misc.cxx
+	<windows.h>
+	<windowsx.h>
+	"winbgim.h"
+	"winbgitypes.h"
+	<iostream>
+
+1151492184 source:c:\users\mdt\desktop\project_codeblocks\mouse.cxx
+	<windows.h>
+	<windowsx.h>
+	"winbgim.h"
+	"winbgitypes.h"
+
+1151492208 source:c:\users\mdt\desktop\project_codeblocks\palette.cxx
+	<windows.h>
+	<windowsx.h>
+	"winbgim.h"
+	"winbgitypes.h"
+
+1151492226 source:c:\users\mdt\desktop\project_codeblocks\text.cxx
+	<windows.h>
+	<windowsx.h>
+	<iostream>
+	<sstream>
+	<string>
+	"winbgim.h"
+	"winbgitypes.h"
+
+1151492238 source:c:\users\mdt\desktop\project_codeblocks\winbgi.cxx
+	<windows.h>
+	<windowsx.h>
+	<stdio.h>
+	<iostream>
+	<vector>
+	"winbgim.h"
+	"winbgitypes.h"
+
+1151487374 source:c:\users\mdt\desktop\project_codeblocks\winthread.cxx
+	<windows.h>
+	<windowsx.h>
+	"winbgim.h"
+	"winbgitypes.h"
+	<vector>
+	<queue>
+	<iostream>
+	<iostream>
+
+1501401943 c:\users\mdt\desktop\project_codeblocks\menu.h
+
+1502184044 c:\users\mdt\desktop\project_codeblocks\bailam.h
+	"hangso.h"
+
+1502247091 source:c:\users\mdt\desktop\project_codeblocks\ok.cpp
+	"hangso.h"
+
+1502605225 source:c:\users\mdt\desktop\project_codeblocks\hienthi.cpp
+	"hangso.h"
+	"hienthi.h"
+	"xuli.h"
+
+1502583582 c:\users\mdt\desktop\project_codeblocks\hangso.h
+	"graphics.h"
+	<math.h>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1502562391 c:\users\mdt\desktop\project_codeblocks\hienthi.h
+
+1502596421 source:c:\users\mdt\desktop\project_codeblocks\xuli.cpp
+	"hangso.h"
+	"xuli.h"
+	"hienthi.h"
+
+1502593440 c:\users\mdt\desktop\project_codeblocks\xuli.h
+
+1452072114 source:d:\lap_trinh\game_tower_defense\bgi.cxx
+
+1451663222 source:d:\lap_trinh\game_tower_defense\bgiout.cxx
+
+1070077550 source:d:\lap_trinh\game_tower_defense\dibutil.cxx
+	<windows.h>
+	<assert.h>
+	"dibapi.h"
+	"dibutil.h"
+	<stdio.h>
+
+1070141918 d:\lap_trinh\game_tower_defense\dibapi.h
+
+1070072952 d:\lap_trinh\game_tower_defense\dibutil.h
+
+1502478278 source:d:\lap_trinh\game_tower_defense\drawing.cxx
+	<windows.h>
+	<windowsx.h>
+	<math.h>
+	<ocidl.h>
+	<olectl.h>
+	<string.h>
+	"winbgim.h"
+	"winbgitypes.h"
+	"dibapi.h"
+	<iostream>
+
+1451663230 d:\lap_trinh\game_tower_defense\winbgim.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1151487686 d:\lap_trinh\game_tower_defense\winbgitypes.h
+	<windows.h>
+	<tchar.h>
+	<queue>
+	<string>
+	"winbgim.h"
+	<vector>
+
+1151839830 source:d:\lap_trinh\game_tower_defense\file.cxx
+	<windows.h>
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<io.h>
+	<direct.h>
+	<stdlib.h>
+	"dibutil.h"
+	"dibapi.h"
+	"winbgitypes.h"
+
+1502605225 source:d:\lap_trinh\game_tower_defense\hienthi.cpp
+	"hangso.h"
+	"hienthi.h"
+	"xuli.h"
+
+1502583582 d:\lap_trinh\game_tower_defense\hangso.h
+	"graphics.h"
+	<math.h>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1452072419 d:\lap_trinh\game_tower_defense\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1502562391 d:\lap_trinh\game_tower_defense\hienthi.h
+
+1502593440 d:\lap_trinh\game_tower_defense\xuli.h
+
+1502593609 source:d:\lap_trinh\game_tower_defense\main.cpp
+	"hangso.h"
+	"hienthi.h"
+	"xuli.h"
+	<mmsystem.h>
+
+1151492256 source:d:\lap_trinh\game_tower_defense\misc.cxx
+	<windows.h>
+	<windowsx.h>
+	"winbgim.h"
+	"winbgitypes.h"
+	<iostream>
+
+1151492184 source:d:\lap_trinh\game_tower_defense\mouse.cxx
+	<windows.h>
+	<windowsx.h>
+	"winbgim.h"
+	"winbgitypes.h"
+
+1502247091 source:d:\lap_trinh\game_tower_defense\ok.cpp
+	"hangso.h"
+
+1151492208 source:d:\lap_trinh\game_tower_defense\palette.cxx
+	<windows.h>
+	<windowsx.h>
+	"winbgim.h"
+	"winbgitypes.h"
+
+1151492226 source:d:\lap_trinh\game_tower_defense\text.cxx
+	<windows.h>
+	<windowsx.h>
+	<iostream>
+	<sstream>
+	<string>
+	"winbgim.h"
+	"winbgitypes.h"
+
+1151492238 source:d:\lap_trinh\game_tower_defense\winbgi.cxx
+	<windows.h>
+	<windowsx.h>
+	<stdio.h>
+	<iostream>
+	<vector>
+	"winbgim.h"
+	"winbgitypes.h"
+
+1151487374 source:d:\lap_trinh\game_tower_defense\winthread.cxx
+	<windows.h>
+	<windowsx.h>
+	"winbgim.h"
+	"winbgitypes.h"
+	<vector>
+	<queue>
+	<iostream>
+	<iostream>
+
+1502596421 source:d:\lap_trinh\game_tower_defense\xuli.cpp
+	"hangso.h"
+	"xuli.h"
+	"hienthi.h"
+

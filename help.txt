@@ -1,0 +1,14 @@
+You must protect your territory by using towers to kill enemy's tank.
+Using mouse, left double click to choose function you want (buy or sell your tower)
+and left click on invalid land (GRAY color) to put, and click on tower to sell it
+with half price.
+Press Space button to Pause and Enter to Continue.
+Press ESC to back Menu.
+If out of time and you still life you will Win!
+Good luck!!!
+-
+-
+-
+Game coded by MDT
+Thanks you!
+ 

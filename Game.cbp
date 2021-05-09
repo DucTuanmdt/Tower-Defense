@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Game" />
+		<Option makefile="makefile" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="BGIm\;" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/FlowerHeart_2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="Gdi32" />
+					<Add library="Ole32" />
+					<Add library="OleAut32" />
+					<Add library="Comdlg32" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/FlowerHeart_2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="Gdi32" />
+					<Add library="Ole32" />
+					<Add library="OleAut32" />
+					<Add library="Comdlg32" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="bailam.h" />
+		<Unit filename="bgi.cxx">
+			<Option virtualFolder="BGIm/" />
+		</Unit>
+		<Unit filename="bgiout.cxx">
+			<Option virtualFolder="BGIm/" />
+		</Unit>
+		<Unit filename="dibapi.h" />
+		<Unit filename="dibutil.cxx">
+			<Option virtualFolder="BGIm/" />
+		</Unit>
+		<Unit filename="dibutil.h" />
+		<Unit filename="drawing.cxx">
+			<Option virtualFolder="BGIm/" />
+		</Unit>
+		<Unit filename="file.cxx">
+			<Option virtualFolder="BGIm/" />
+		</Unit>
+		<Unit filename="graphics.h" />
+		<Unit filename="hangso.h" />
+		<Unit filename="hienthi.cpp" />
+		<Unit filename="hienthi.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="misc.cxx">
+			<Option virtualFolder="BGIm/" />
+		</Unit>
+		<Unit filename="mouse.cxx">
+			<Option virtualFolder="BGIm/" />
+		</Unit>
+		<Unit filename="ok.cpp" />
+		<Unit filename="palette.cxx">
+			<Option virtualFolder="BGIm/" />
+		</Unit>
+		<Unit filename="text.cxx">
+			<Option virtualFolder="BGIm/" />
+		</Unit>
+		<Unit filename="winbgi.cxx">
+			<Option virtualFolder="BGIm/" />
+		</Unit>
+		<Unit filename="winbgim.h" />
+		<Unit filename="winbgitypes.h" />
+		<Unit filename="winthread.cxx">
+			<Option virtualFolder="BGIm/" />
+		</Unit>
+		<Unit filename="xuli.cpp" />
+		<Unit filename="xuli.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
